@@ -1,0 +1,93 @@
+.a{
+	position: absolute;
+	top: 35%;
+	left: 40%;
+	width: 30%;
+	color:#B40EAF;
+	}
+.b{
+	position: absolute;
+	top: 15%;
+	left: 2%;
+	width: 30%;
+	color: #0221CA;
+}
+.c{
+	position: absolute;
+	top: 90%;
+	left: 71%;
+	width: 30%;
+	color: #FC00AD;
+}
+.d{
+	position: absolute;
+	top: 21%;
+	left: 30%;
+	width: 45%;
+	height: 50%;
+	background-color:#FF61CE;
+}
+
+.e{
+	position: absolute;
+	top: 11%;
+	left: 30%;
+	width: 45%;
+	height: 10%;
+	background-color:#FFC0EB;
+}
+.f{
+	position: absolute;
+	top:65%;
+	left: 38%;
+	width: 30%;
+	color:#FFFFFF;
+}
+.g{
+	position: absolute;
+	top: 11%;
+	left: 30%;
+	width: 50%;
+	height: 10%;
+	background-color:#BB7BFF;
+}
+.h{
+	position: absolute;
+	top: 21%;
+	left: 30%;
+	width: 50%;
+	height: 50%;
+	background-color:#FFC0EB;
+}
+.i{
+	position: absolute;
+	top:65%;
+	left: 38%;
+	width: 30%;
+	color:#FFFFFF;
+}
+.j{
+	position: absolute;
+	top: 11%;
+	left: 24%;
+	width: 58%;
+	height: 10%;
+	background-color:#D6B3FF;
+}
+.k{
+	position: absolute;
+	top: 21%;
+	left: 24%;
+	width: 58%;
+	height: 65%;
+	background-color:#D6B3FF;
+}
+.l{
+	position: absolute;
+	top:78%;
+	left: 38%;
+	width: 30%;
+	color:#FFFFFF;
+}
+
+
